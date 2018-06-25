@@ -5,3 +5,37 @@
 
 
 # Databases-Advanced-Entity-Framework
+
+## Course: [Database Advanced: Entity Framework](https://softuni.bg/trainings/1972/databases-advanced-entity-framework-june-2018)
+SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with their solutions.
+
+## Course content:
+- DB Apps Introduction
+- ORM Fundamentals
+- Introduction to Entity Framework
+- Code-First
+- Entity Relations
+- Advanced Relations and Aggregation
+- Advanced Querying 
+- C# Auto Mapping Objects
+- Best Practices and Architecture
+- XML Processing
+- JSON Processing
+
+## Repository content:
+
+> **Homeworks**
+
+№	|Tasks										|Descriptions																						|Exercises																																									|Progress																														
+:--:|-------------------------------------------|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
+1	|Fetching Resultsets with ADO.NET			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+2	|ORM Fundamentals							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+3	|Introduction to Entity Framework			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+4	|Code-First									|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+5	|Entity Relations							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+6	|Advanced Relations							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+7	|Advanced Querying							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+8	|Auto Mapping Objects						|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+9	|Best Practices and Architecture			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+10	|XML Processing								|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+11	|JSON Processing							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
