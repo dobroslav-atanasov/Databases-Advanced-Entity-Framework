@@ -26,16 +26,16 @@ SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with 
 
 > **Homeworks**
 
-№	|Tasks										|Descriptions																						|Exercises																																									|Progress																														
-:--:|-------------------------------------------|:-------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
-1	|Fetching Resultsets with ADO.NET			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-2	|ORM Fundamentals							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-3	|Introduction to Entity Framework			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-4	|Code-First									|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-5	|Entity Relations							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-6	|Advanced Relations							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-7	|Advanced Querying							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-8	|Auto Mapping Objects						|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-9	|Best Practices and Architecture			|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-10	|XML Processing								|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
-11	|JSON Processing							|[Description]()																					|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+№	|Tasks										|Descriptions																										|Exercises																																									|Progress																														
+:--:|-------------------------------------------|:-----------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:
+1	|Fetching Resultsets with ADO.NET			|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+2	|ORM Fundamentals							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+3	|Introduction to Entity Framework			|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+4	|Code-First									|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+5	|Entity Relations							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+6	|Advanced Relations							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+7	|Advanced Querying							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+8	|Auto Mapping Objects						|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+9	|Best Practices and Architecture			|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+10	|XML Processing								|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
+11	|JSON Processing							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Exercises]																																								|![Progress](http://progressed.io/bar/0)
