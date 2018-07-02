@@ -24,6 +24,8 @@ SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with 
 
 ## Repository content:
 
+> **[Databases](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Databases)**
+
 > **Homeworks**
 
 №	|Tasks										|Descriptions																										|Exercises																																		|Progress																														
