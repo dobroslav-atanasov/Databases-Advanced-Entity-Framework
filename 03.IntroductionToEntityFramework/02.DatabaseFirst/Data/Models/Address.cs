@@ -9,6 +9,13 @@
             this.Employees = new HashSet<Employee>();
         }
 
+        public Address(string addressText, int townId)
+            : this()
+        {
+            this.AddressText = addressText;
+            this.TownId = townId;
+        }
+
         public int AddressId { get; set; }
 
         public string AddressText { get; set; }
