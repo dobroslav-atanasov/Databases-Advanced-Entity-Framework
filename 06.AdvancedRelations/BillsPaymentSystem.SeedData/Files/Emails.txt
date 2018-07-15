@@ -1,0 +1,4 @@
+@mail.com
+@google.com
+@yahoo.com
+@gmail.com
