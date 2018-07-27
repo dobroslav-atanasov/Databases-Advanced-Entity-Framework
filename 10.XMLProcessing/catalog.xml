@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<albums>
+    <album>
+        <name>A King of Magic</name>
+        <artist>Queen</artist>
+        <year>1986</year>
+        <producer>Queen</producer>
+        <price>125.50</price>
+        <songs>
+            <song>
+                <title>One Vision</title>
+                <duration>5:10</duration>
+            </song>
+            <song>
+                <title>A Kind of Magic</title>
+                <duration>4:24</duration>
+            </song>
+            <song>
+                <title>One Year of Love</title>
+                <duration>4:26</duration>
+            </song>
+            <song>
+                <title>Pain Is So Close to Pleasure</title>
+                <duration>4:21</duration>
+            </song>
+            <song>
+                <title>Friends Will Be Friends</title>
+                <duration>4:07</duration>
+            </song>            
+        </songs>
+    </album>
+</albums>
