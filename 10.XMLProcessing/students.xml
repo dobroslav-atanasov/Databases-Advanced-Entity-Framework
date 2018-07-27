@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+	<student>
+		<name>Petar Petrov</name>
+		<gender>Male</gender>
+		<birthDate>1990/10/15</birthDate>
+		<phoneNumber>+359888888666</phoneNumber>
+		<email>petar.petrov@mail.com</email>
+		<university>SoftUni</university>
+		<specialty>PHP Developer</specialty>
+		<facultyNumber>PD123456</facultyNumber>
+		<exams>
+			<exam>
+				<name>PHP Fundamentals</name>
+				<dateTaken>2018/07/27</dateTaken>
+				<grade>6.00</grade>
+			</exam>
+		</exams>
+	</student>
+	<student>
+		<name>Ivan Ivanov</name>
+		<gender>Male</gender>
+		<birthDate>1990/02/15</birthDate>
+		<phoneNumber>+3598886666666</phoneNumber>
+		<email>ivan.ivanov@mail.com</email>
+		<university>SoftUni</university>
+		<specialty>PHP Developer</specialty>
+		<facultyNumber>PD123457</facultyNumber>
+		<exams>
+			<exam>
+				<name>PHP Fundamentals</name>
+				<dateTaken>2018/07/27</dateTaken>
+				<grade>5.00</grade>
+			</exam>
+		</exams>
+	</student>
+</students>
