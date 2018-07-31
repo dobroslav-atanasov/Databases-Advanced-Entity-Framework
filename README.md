@@ -44,3 +44,7 @@ SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with 
 
 Exams				|Date				|Descriptions																											|Solutions
 --------------------|:-----------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------:
+Instagraph			|04 December 2017	|[Description]																											|[Solution]
+Stations			|05 December 2017	|[Description]																											|[Solution]
+Fast Food			|10 December 2017	|[Description]																											|[Solution]
+Pet Clinic			|05 January 2018	|[Description]																											|[Solution]
