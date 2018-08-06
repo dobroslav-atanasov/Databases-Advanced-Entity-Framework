@@ -48,3 +48,9 @@ Instagraph			|04 December 2017	|[Description]																											|[Soluti
 Stations			|05 December 2017	|[Description]																											|[Solution]
 Fast Food			|10 December 2017	|[Description]																											|[Solution]
 Pet Clinic			|05 January 2018	|[Description]																											|[Solution]
+
+> **Workshop**
+
+Projects			|Descriptions																															|Solutions
+--------------------|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------:
+Team Builder		|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Workshop-TeamBuilder)
