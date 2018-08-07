@@ -42,6 +42,8 @@ SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with 
 10	|XML Processing								|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Product Shop](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/10.XMLProcessing/ProductShop)<br>[Car Dealer](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/10.XMLProcessing/CarDealer)	|![Progress](http://progressed.io/bar/100?title=completed)
 11	|JSON Processing							|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources)		|[Product Shop](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/11.JSONProcessing/ProductShop)<br>[Car Dealer](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/11.JSONProcessing/CarDealer)			|![Progress](http://progressed.io/bar/100?title=completed)
 
+> **Exams**
+
 Exams				|Date				|Descriptions																											|Solutions
 --------------------|:-----------------:|:---------------------------------------------------------------------------------------------------------------------:|:----------:
 Instagraph			|04 December 2017	|[Description]																											|[Solution]
@@ -53,4 +55,4 @@ Pet Clinic			|05 January 2018	|[Description]																											|[Solutio
 
 Projects			|Descriptions																															|Solutions
 --------------------|:-------------------------------------------------------------------------------------------------------------------------------------:|:----------:
-Team Builder		|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Workshop-TeamBuilder)
+Team Builder		|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Workshop-TeamBuilder)	|[Team Builder](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Workshop-TeamBuilder)
