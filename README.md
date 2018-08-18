@@ -49,7 +49,7 @@ Exams				|Date				|Descriptions																																|Solutions
 Instagraph			|04 December 2017	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-04.12.2017-Instagraph)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-04.12.2017-Instagraph)
 Stations			|05 December 2017	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-05.12.2017-Stations)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-05.12.2017-Stations)
 Fast Food			|10 December 2017	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-10.12.2017-FastFood)	|[Solution]
-Pet Clinic			|05 January 2018	|[Description]																											|[Solution]
+Pet Clinic			|05 January 2018	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-05.01.2018-PetClinic)																											|[Solution]
 
 > **Workshop**
 
