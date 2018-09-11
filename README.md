@@ -50,7 +50,7 @@ Instagraph			|04 December 2017	|[Description](https://github.com/dobroslav-atana
 Stations			|05 December 2017	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-05.12.2017-Stations)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-05.12.2017-Stations)
 Fast Food			|10 December 2017	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-10.12.2017-FastFood)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-10.12.2018-FastFood)
 Pet Clinic			|05 January 2018	|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-05.01.2018-PetClinic)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-05.01.2018-PetClinic)
-Soft Jail			|12 August 2018		|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-12.08.2018-SoftJail)	|[Solution]
+Soft Jail			|12 August 2018		|[Description](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Resources/Exam-12.08.2018-SoftJail)	|[Solution](https://github.com/dobroslav-atanasov/Databases-Advanced-Entity-Framework/tree/master/Exam-12.08.2018-SoftJail)
 
 > **Workshop**
 
