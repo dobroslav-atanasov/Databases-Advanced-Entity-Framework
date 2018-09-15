@@ -3,9 +3,6 @@
 	<a href="https://docs.microsoft.com/en-us/ef/"><img src="https://cdn-images-1.medium.com/max/1600/1*19hDux91qpoShfe7tXE5xg.png" alt="MS SQL Server" width="400" align="center"></a>
 <p>
 
-
-# Databases-Advanced-Entity-Framework
-
 ## Course: [Database Advanced: Entity Framework](https://softuni.bg/trainings/1972/databases-advanced-entity-framework-june-2018)
 SoftUni course Database Advanced - Entity Framework - June 2018: All tasks with their solutions.
 
